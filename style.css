@@ -1,0 +1,30 @@
+.row{   
+
+    
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:transparent;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+.footer{
+ display: flex;
+ justify-content:space-between;
+}
+body{
+    background-image: url('');
+    
+    background-size: contain;
+}
